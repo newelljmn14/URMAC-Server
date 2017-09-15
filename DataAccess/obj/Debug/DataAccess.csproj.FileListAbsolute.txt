@@ -16,3 +16,15 @@ C:\Users\newel\Desktop\Coding\Software-Engineering-Project\URMAC-Server\DataAcce
 C:\Users\newel\Desktop\Coding\Software-Engineering-Project\URMAC-Server\DataAccess\obj\Debug\DataAccess.Migrations.initial.resources
 C:\Users\newel\Desktop\Coding\Software-Engineering-Project\URMAC-Server\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.Cache
 C:\Users\newel\Desktop\Coding\Software-Engineering-Project\URMAC-Server\DataAccess\obj\Debug\DataAccess.Migrations.purchaseInfoUpdate.resources
+C:\Users\newel\Desktop\Coding\Software-Engineering-Project\URMAC-Server\DataAccess\bin\Debug\Microsoft.Owin.Cors.dll
+C:\Users\newel\Desktop\Coding\Software-Engineering-Project\URMAC-Server\DataAccess\bin\Debug\Microsoft.Owin.dll
+C:\Users\newel\Desktop\Coding\Software-Engineering-Project\URMAC-Server\DataAccess\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\newel\Desktop\Coding\Software-Engineering-Project\URMAC-Server\DataAccess\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\newel\Desktop\Coding\Software-Engineering-Project\URMAC-Server\DataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\newel\Desktop\Coding\Software-Engineering-Project\URMAC-Server\DataAccess\bin\Debug\Owin.dll
+C:\Users\newel\Desktop\Coding\Software-Engineering-Project\URMAC-Server\DataAccess\bin\Debug\System.Web.Cors.dll
+C:\Users\newel\Desktop\Coding\Software-Engineering-Project\URMAC-Server\DataAccess\bin\Debug\Microsoft.Owin.xml
+C:\Users\newel\Desktop\Coding\Software-Engineering-Project\URMAC-Server\DataAccess\bin\Debug\Microsoft.Owin.Cors.xml
+C:\Users\newel\Desktop\Coding\Software-Engineering-Project\URMAC-Server\DataAccess\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\newel\Desktop\Coding\Software-Engineering-Project\URMAC-Server\DataAccess\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\newel\Desktop\Coding\Software-Engineering-Project\URMAC-Server\DataAccess\bin\Debug\Newtonsoft.Json.xml

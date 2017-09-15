@@ -37,7 +37,6 @@ C:\Users\newel\Desktop\Coding\Software-Engineering-Project\URMAC-Server\URMAC-Se
 C:\Users\newel\Desktop\Coding\Software-Engineering-Project\URMAC-Server\URMAC-Server\bin\System.Web.Http.dll
 C:\Users\newel\Desktop\Coding\Software-Engineering-Project\URMAC-Server\URMAC-Server\bin\System.Web.Http.Owin.dll
 C:\Users\newel\Desktop\Coding\Software-Engineering-Project\URMAC-Server\URMAC-Server\bin\System.Web.Http.WebHost.dll
-C:\Users\newel\Desktop\Coding\Software-Engineering-Project\URMAC-Server\URMAC-Server\bin\Microsoft.AspNet.Identity.EntityFramework.dll
 C:\Users\newel\Desktop\Coding\Software-Engineering-Project\URMAC-Server\URMAC-Server\bin\Microsoft.AspNet.Identity.Core.xml
 C:\Users\newel\Desktop\Coding\Software-Engineering-Project\URMAC-Server\URMAC-Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\newel\Desktop\Coding\Software-Engineering-Project\URMAC-Server\URMAC-Server\bin\Microsoft.Owin.xml
@@ -58,3 +57,10 @@ C:\Users\newel\Desktop\Coding\Software-Engineering-Project\URMAC-Server\URMAC-Se
 C:\Users\newel\Desktop\Coding\Software-Engineering-Project\URMAC-Server\URMAC-Server\bin\EntityFramework.dll
 C:\Users\newel\Desktop\Coding\Software-Engineering-Project\URMAC-Server\URMAC-Server\bin\EntityFramework.SqlServer.dll
 C:\Users\newel\Desktop\Coding\Software-Engineering-Project\URMAC-Server\URMAC-Server\bin\EntityFramework.SqlServer.xml
+C:\Users\newel\Desktop\Coding\Software-Engineering-Project\URMAC-Server\URMAC-Server\bin\Microsoft.Owin.Cors.dll
+C:\Users\newel\Desktop\Coding\Software-Engineering-Project\URMAC-Server\URMAC-Server\bin\Microsoft.Owin.Security.dll
+C:\Users\newel\Desktop\Coding\Software-Engineering-Project\URMAC-Server\URMAC-Server\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\newel\Desktop\Coding\Software-Engineering-Project\URMAC-Server\URMAC-Server\bin\System.Web.Cors.dll
+C:\Users\newel\Desktop\Coding\Software-Engineering-Project\URMAC-Server\URMAC-Server\bin\Microsoft.Owin.Cors.xml
+C:\Users\newel\Desktop\Coding\Software-Engineering-Project\URMAC-Server\URMAC-Server\bin\Microsoft.Owin.Security.xml
+C:\Users\newel\Desktop\Coding\Software-Engineering-Project\URMAC-Server\URMAC-Server\bin\Microsoft.Owin.Security.OAuth.xml
