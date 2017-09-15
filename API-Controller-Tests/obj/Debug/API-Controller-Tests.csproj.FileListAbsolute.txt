@@ -1,0 +1,7 @@
+C:\Users\newel\Desktop\Coding\Software-Engineering-Project\URMAC-Server\API-Controller-Tests\obj\Debug\API-Controller-Tests.csprojResolveAssemblyReference.cache
+C:\Users\newel\Desktop\Coding\Software-Engineering-Project\URMAC-Server\API-Controller-Tests\bin\Debug\API-Controller-Tests.dll
+C:\Users\newel\Desktop\Coding\Software-Engineering-Project\URMAC-Server\API-Controller-Tests\bin\Debug\API-Controller-Tests.pdb
+C:\Users\newel\Desktop\Coding\Software-Engineering-Project\URMAC-Server\API-Controller-Tests\bin\Debug\nunit.framework.dll
+C:\Users\newel\Desktop\Coding\Software-Engineering-Project\URMAC-Server\API-Controller-Tests\bin\Debug\nunit.framework.xml
+C:\Users\newel\Desktop\Coding\Software-Engineering-Project\URMAC-Server\API-Controller-Tests\obj\Debug\API-Controller-Tests.dll
+C:\Users\newel\Desktop\Coding\Software-Engineering-Project\URMAC-Server\API-Controller-Tests\obj\Debug\API-Controller-Tests.pdb
